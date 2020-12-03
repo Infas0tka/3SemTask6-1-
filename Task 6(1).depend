@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1607015039 source:c:\users\super\onedrive\Рабочий стол\task 6(1)\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<math.h>
+	<algorithm>
+
